@@ -15,3 +15,42 @@
 .nav {
 	margin-top: 20px;
 }
+
+ul {
+	list-style: none;
+	margin-left: 0;
+}
+
+.accordion-body ul {
+	margin: 0 0 18px 20px;
+}
+
+li .accordion-heading .accordion-toggle {
+	display: inline-block;
+	padding: 0;
+}
+
+li .accordion-heading .accordion-toggle {
+	float: right;
+	opacity: 0.25;
+}
+
+li .accordion-heading .accordion-toggle:hover {
+	opacity: 1;
+}
+
+.caption .btn {
+	text-align: center;
+}
+
+.thumbnail .caption {
+	text-align: center;
+}
+
+.thumbnails li {
+	text-align: center;
+}
+
+.thumbnails li a {
+	margin: 10px 0 0 0;
+}
